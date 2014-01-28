@@ -1,15 +1,9 @@
 ForkMeForkYou
 =============
+What was removed from this file:
 
-A lab on using Git and GitHub for COMP 20: Web Programming
+Text: "OMFGDOGS"
+gif: "omfgdogs.gif"
+mp3: "omfgdfogs.mp3"
 
-$ mkdir ~/ForkMeForkYou
-
-$ cd ~/ForkMeForkYou
-
-$ git init 
-
-$ touch README
-
-
-Demoing how git works - Tyler Lubeck
+-Sahil Kathawala
