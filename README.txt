@@ -10,3 +10,6 @@ $ cd ~/ForkMeForkYou
 $ git init 
 
 $ touch README
+
+
+Demoing how git works - Tyler Lubeck
